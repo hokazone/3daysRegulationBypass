@@ -1,0 +1,1 @@
+document.getElementsByClassName("Button EdgeButton EdgeButton--primary")[0].click();

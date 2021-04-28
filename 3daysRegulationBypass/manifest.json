@@ -1,0 +1,12 @@
+{
+    "name": "3DaysRemover",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "3days regulation bypass",
+    "content_scripts": [{
+      "matches": ["https://twitter.com/account/access"],
+      "js": [
+        "content.js"
+      ]
+    }]
+  }
