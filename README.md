@@ -1,2 +1,2 @@
 # 3daysRegulationBypass
-Twitterの３日規制画面へ飛ばされた際、自動で続けるをクリックしてくれるchromeの拡張ツールです。
+Twitterの３日規制画面へ飛ばされた際、自動で続けるをクリックしてくれるchromeの拡張機能です。
